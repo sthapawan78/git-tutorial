@@ -6,3 +6,6 @@ Information System
 Social Professional Issues in IT 
 Elective
 Project
+Data Structure and Algortihm
+Web Development
+pawan Shrestha
