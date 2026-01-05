@@ -1,3 +1,4 @@
 model.dat
 *.dat
 module/
+!data.dat
