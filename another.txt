@@ -3,4 +3,6 @@ Thermal
 Digital Analysis Processing Signal
 Organization and Management
 Information System
-Social Professional Issues in I
+Social Professional Issues in IT 
+Elective
+Project
